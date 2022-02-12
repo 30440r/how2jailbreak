@@ -1,5 +1,6 @@
 ## how2jailbreak
 [![pages-build-deployment](https://github.com/30440r/how2jailbreak/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/30440r/how2jailbreak/actions/workflows/pages/pages-build-deployment)
+
 A complete iOS modding guide, from stock to jailbroken.
 
 http://how2jailbreak.30440r.xyz
